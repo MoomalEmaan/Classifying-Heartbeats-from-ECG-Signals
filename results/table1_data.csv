@@ -1,0 +1,5 @@
+Item,Value
+Train / validation / test rows,78799 / 8755 / 21892
+Minimum / maximum signal value,0.0 / 1.0
+"Rows per class, train file (N, S, V, F, Q)",72471 / 2223 / 5788 / 641 / 6431
+"Rows per class, test file (N, S, V, F, Q)",18118 / 556 / 1448 / 162 / 1608
