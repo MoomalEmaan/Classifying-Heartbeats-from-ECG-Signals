@@ -4,8 +4,6 @@ from load_data import load_raw
 import numpy as np
 import torch
 
-
-# ADDED: put the code in a function so other files can import it
 def prepare_data():
     #loading the training and testing data
     raw_data=load_raw()
@@ -104,13 +102,12 @@ def prepare_data():
             " / ".join(map(str, test_counts)),
         ],
     })
-    table1.to_csv("results/table1_data.csv", index=False)
+    table1.to_csv("results/tables/table1_data.csv", index=False)
     print(table1.to_string(index=False))
-    print("Saved results/table1_data.csv")
+    print("Saved results/tables/table1_data.csv")
 
     return X_train_tensor, Y_train_tensor, X_val_tensor, Y_val_tensor, X_test_tensor, Y_test_tensor
 
 
-#only run the function when this file is run directly
 if __name__ == "__main__":
     prepare_data()

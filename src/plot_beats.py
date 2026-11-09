@@ -14,7 +14,7 @@ FS = 125  # sampling frequency in Hz
 
 def plot_one_per_class(
     df,
-    out_path="results/example_beats.png"
+    out_path="results/figures/example_beats.png"
 ):
     """
     Plot the first beat of each class in df
@@ -53,7 +53,7 @@ def plot_one_per_class(
 if __name__ == "__main__":
     import os
 
-    os.makedirs("results", exist_ok=True)
+    os.makedirs("results/figures", exist_ok=True)
 
     plot_one_per_class(
         load_raw()["train"]
