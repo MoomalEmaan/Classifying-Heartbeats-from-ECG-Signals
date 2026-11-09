@@ -1,0 +1,9 @@
+Item,Value
+Trainable parameters,32645
+Initial loss (before training),1.7174
+Gradient check: max difference for W3 / b3,0.00e+00 / 0.00e+00
+Chosen alpha,0.5
+Best epoch (lowest validation loss),23
+Training / validation loss at best epoch,0.0560 / 0.0722
+Training / validation accuracy at best epoch,0.9826 / 0.9793
+Training time and hardware,"51 seconds, CPU: Intel Core i5-6300U @ 2.40GHz"
