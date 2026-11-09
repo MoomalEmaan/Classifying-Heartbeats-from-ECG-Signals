@@ -7,3 +7,6 @@ venv/
 
 data/*
 !data/.gitkeep
+
+*.pdf
+
