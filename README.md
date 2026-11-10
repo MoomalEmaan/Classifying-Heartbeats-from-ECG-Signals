@@ -13,9 +13,12 @@ The weight matrices, forward pass, softmax cross-entropy loss and the mini-batch
 
 ## Links
 
-- Medium blog (Moomal Eman): [My Neural Network Scored 97.8%. It Still Missed One in Three Rare Heartbeats.](https://medium.com/@moomaleman41/my-neural-network-scored-97-8-it-still-missed-one-in-three-rare-heartbeats-41dbf95fb95c)
-- Medium blog (Tayyba Bashir): [Building a Heartbeat Classifier in PyTorch Without nn.Linear or torch.optim](https://medium.com/@Tayyba_Bashir/building-a-heartbeat-classifier-in-pytorch-without-nn-linear-or-torch-optim-88b70ecc8792)
-- LinkedIn post (Moomal Eman): [LinkedIn post](https://lnkd.in/p/d3zuc7Us)
+- Medium blog (Moomal Eman): (https://medium.com/@moomaleman41/my-neural-network-scored-97-8-it-still-missed-one-in-three-rare-heartbeats-41dbf95fb95c)
+- Medium blog (Tayyba Bashir): (https://medium.com/@Tayyba_Bashir/building-a-heartbeat-classifier-in-pytorch-without-nn-linear-or-torch-optim-88b70ecc8792)
+- LinkedIn profile : [Moomal Eman](https://www.linkedin.com/in/moomal-eman-25b632346/)
+- LinkedIn profile: [Tayyba Bashir](https://www.linkedin.com/in/tayyba-bashir-77983a332/)
+
+
 
 ## Results
 
